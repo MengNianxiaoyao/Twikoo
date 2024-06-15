@@ -14,4 +14,4 @@
 
 ## 更新
 
-直接修改 `package.json` 中的版本号
+已实现Github Action自动更新
